@@ -15,6 +15,7 @@ In this game, you will guess a number chosen by the computer from a specified ra
 
 ## How to Play
 
+![Screenshot of the Game](/home/windows15/game1.png)
 ### Step 1: Start the Game
 - Compile and run the program to start the game.
 
